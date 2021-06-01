@@ -1,0 +1,6 @@
+.vs/
+build/
+intermediate/
+Pong.sln
+Pong.vcxproj.filters
+Pong.vcxproj.user
